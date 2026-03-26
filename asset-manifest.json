@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/psychelab/static/js/main.bd5199d9.js",
+    "main.js": "/psychelab/static/js/main.9551810f.js",
     "index.html": "/psychelab/index.html",
-    "main.bd5199d9.js.map": "/psychelab/static/js/main.bd5199d9.js.map"
+    "main.9551810f.js.map": "/psychelab/static/js/main.9551810f.js.map"
   },
   "entrypoints": [
-    "static/js/main.bd5199d9.js"
+    "static/js/main.9551810f.js"
   ]
 }
